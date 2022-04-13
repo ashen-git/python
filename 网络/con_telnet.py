@@ -2,6 +2,7 @@ import telnetlib
 from os import system
 import threading
 import time
+whoami
 
 windows_flag_path="C:\\flag.txt"
 linux_flag_path="/flag.txt"
